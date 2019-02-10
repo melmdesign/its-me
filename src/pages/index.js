@@ -1,5 +1,9 @@
 import React from "react"
+import './styles/typography.css';
 
 export default () => (
-  <div style={{ color: `purple`, fontSize: `72px` }}>Liam Murphy, Lead Product Designer @Donut</div>
+  <div style={{ color: `black` }}>
+    <h1>Liam Murphy</h1>
+    <p>Lead Product Designer @Donut</p>
+  </div>
 )
