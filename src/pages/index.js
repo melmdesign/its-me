@@ -2,8 +2,7 @@ import React from "react"
 import './styles/typography.css';
 
 export default () => (
-  <div style={{ color: `black` }}>
-    <h1>Liam Murphy</h1>
-    <p>Lead Product Designer @Donut</p>
+  <div className="ProfileContainer">
+    <p className="DottedBox_content">Get started with CSS styling</p>
   </div>
 )
