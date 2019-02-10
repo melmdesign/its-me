@@ -1,5 +1,4 @@
 import React from "react"
-import './styles/typography.css';
 
 export default () => (
   <div className="ProfileContainer">
