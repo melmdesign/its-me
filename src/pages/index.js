@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import "./src/styles/global.css"
 import Container from "../components/container"
 
 export default () => (
