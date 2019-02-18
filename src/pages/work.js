@@ -20,7 +20,7 @@ export default () => (
   <Container>
     <Link to="/">Home</Link>
     <Header headerText="Resume or something?" />
-    <Header headerText="Where I've worked"
+    <Header headerText="Where I've worked" />
     <User
       username="Donut - trydonut.com"
       avatar="https://s3.amazonaws.com/uifaces/faces/twitter/adellecharles/128.jpg"
